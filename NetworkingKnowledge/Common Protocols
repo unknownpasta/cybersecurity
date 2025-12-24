@@ -1,0 +1,26 @@
+HTTP - Hyper Text Transfer Protocol
+is used to access to the web.
+
+HTTPS - Hyper Text Transfer Protocol Secure
+does the same as HTTP  but securely via TLS (Transport Layer Security).
+
+TCP - Transission Control Protocol
+is used to send files when information matters more than time.
+
+UDP - User Datagram Protocol
+is used to send files when time matters more than information.
+
+FTP - File Transfer Protocol
+is used to send files either actively or passively, however has the downside of sending files in plain text making ti insecure.
+
+SFTP - Secure File Transfer Protocol
+FTP but secured with the use of SSH.
+
+SSH - Secure Shell
+Encrypts everything in a session and allows remote access to another system.
+
+SMTP - Simple Mail Transfer Protocol
+sends mails.
+
+DNS - Domian Nmae System
+converts names into IP addresses.
