@@ -1,0 +1,12 @@
+SSL/TLS Basics
+
+TLS (Transport Layer Security) is used to encrypt communication between systems.
+SSL (Secure Sockets Layer) is the older version and is now deprecated.
+
+TLS provides:
+- Encryption (confidentiality)
+- Authentication (identity verification)
+- Integrity (prevents tampering)
+
+HTTPS = HTTP over TLS (secure web traffic)
+TLS conceptually belongs to the Presentation layer and runs over TCP.
