@@ -1,0 +1,8 @@
+Common Ports and Uses
+
+80  – HTTP (web)
+443 – HTTPS (secure web)
+22  – SSH (secure remote access)
+21  – FTP (file transfer, insecure)
+25  – SMTP (sending email)
+53  – DNS (domain name resolution)
