@@ -1,1 +1,26 @@
+'Open System Interconnection' or OSI when abbreviated
+The OSI model is a conceptual framework that explains how data moves across networks using seven layers, helping different systems communicate and enabling easier troubleshooting.
 
+THE SEVEN LAYERS
+1) Physical layer
+Transfers raw bits over a medium such as optic fibre cables, copper cables, radio waves through air.
+
+2) Data link layer
+Handles data transfer on a Local network using MAC (Media Access Control) and LLC (Logical Link Control), like WiFi or Ethernet.
+
+3) Network Layer
+Processes data on the larger scale via iP Addresses
+
+4) Transport Layer
+Uses ports to deliver data to the correct application, TCP (Transmission Control Protocol) or UDP (User Datagram Protocol).
+TCP is used when information is more valuable than time.
+UDP is used when time is more valuable than information.
+
+5) Session Layer
+Manages and maintains communication sessions between systems.
+
+6) Presentation Layer
+Formats, Encrypts and compresses data to make sure its readable amd secure.
+ 
+7) Application Layer
+Provides Network services directly to user applications. eg HTTPS, SSH,  DNS.
