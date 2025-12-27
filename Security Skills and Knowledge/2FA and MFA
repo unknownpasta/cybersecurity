@@ -1,0 +1,6 @@
+MFA & 2FA
+
+2FA (Two-Factor Authentication) requires two different authentication factors.
+MFA (Multi-Factor Authentication) requires two or more authentication factors.
+
+Authentication factors include something you know, something you have, and something you are.
