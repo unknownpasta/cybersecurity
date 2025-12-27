@@ -2,5 +2,5 @@ Definition of Risk
 
 Risk is the potential for loss or damage when a threat exploits a vulnerability.
 Risk depends on the presence of a threat, a vulnerability, and the potential impact.
-
+Threat × Vulnerability × Impact
 Cybersecurity focuses on reducing risk, not eliminating all threats.
