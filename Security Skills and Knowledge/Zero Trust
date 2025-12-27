@@ -1,0 +1,4 @@
+Zero Trust
+
+Zero Trust is a security model that assumes no user or device should be trusted by default.
+Every access request must be authenticated, authorized, and continuously verified.
