@@ -1,0 +1,6 @@
+False Positive (FP) / False Negative (FN)
+
+A false positive occurs when a system incorrectly flags safe activity as malicious.
+A false negative occurs when a system fails to detect actual malicious activity.
+
+False negatives are generally more dangerous than false positives.
