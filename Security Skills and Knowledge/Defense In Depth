@@ -1,0 +1,6 @@
+Defense in Depth
+
+Defense in depth is a security strategy that uses multiple layers of protection.
+If one security control fails, other layers still provide protection.
+
+This approach reduces the impact of successful attacks.
