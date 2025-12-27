@@ -1,0 +1,6 @@
+Authentication vs Authorization
+
+Authentication verifies who a user is. (AuthN)
+Authorization determines what an authenticated user is allowed to do. (AuthZ)
+
+Authentication comes first, authorization comes after.
