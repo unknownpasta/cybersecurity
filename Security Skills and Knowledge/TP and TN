@@ -1,0 +1,4 @@
+True Positive (TP) / True Negative (TN)
+
+A true positive occurs when a security system correctly detects malicious activity.
+A true negative occurs when a security system correctly identifies benign activity as safe.
