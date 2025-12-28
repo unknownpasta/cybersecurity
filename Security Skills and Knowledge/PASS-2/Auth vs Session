@@ -1,0 +1,7 @@
+Login → Authentication (once)
+       ↓
+Session created → Cookie stored
+       ↓
+Every request:
+   ├─ Session checked
+   └─ Authorization enforced (or not)
