@@ -1,7 +1,7 @@
-Login → Authentication (once)
-       ↓
-Session created → Cookie stored
-       ↓
-Every request:
-   ├─ Session checked
-   └─ Authorization enforced (or not)
+Authentication vs Session vs Authorization
+
+Authentication verifies a user's identity.
+A session maintains that authenticated state using a session cookie.
+Authorization determines what an authenticated session is allowed to do on each request.
+
+Many vulnerabilities occur when authorization checks are missing or incorrect.
