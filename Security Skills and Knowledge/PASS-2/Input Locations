@@ -1,0 +1,6 @@
+Input Locations
+
+User-controlled input can exist in URL parameters, request bodies, HTTP headers, and cookies.
+All parts of an HTTP request must be treated as untrusted input.
+
+Many vulnerabilities occur when applications validate input in one location but trust it in another.
