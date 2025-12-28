@@ -1,0 +1,6 @@
+HTTP Methods
+
+GET is used to request data and sends input via URL parameters.
+POST is used to send data to the server and sends input in the request body.
+
+Both GET and POST carry user-controlled input and must be validated.
