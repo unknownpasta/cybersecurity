@@ -1,0 +1,6 @@
+Sessions & Cookies
+
+A session is server-side data that tracks a logged-in user.
+A cookie is client-side data that stores a session identifier and is sent with each request.
+
+If an attacker obtains a valid session cookie, they can impersonate the user.
