@@ -1,0 +1,6 @@
+Broken Access Control
+
+Broken access control occurs when an application fails to properly restrict what authenticated users are allowed to do.
+This often results from missing or incorrect authorization checks.
+
+A common example is IDOR, where attackers access unauthorized resources by modifying identifiers in requests.
