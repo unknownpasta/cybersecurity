@@ -1,0 +1,6 @@
+Injection (SQL Injection)
+
+Injection vulnerabilities occur when untrusted user input is executed as code.
+SQL Injection allows attackers to manipulate database queries by injecting malicious input.
+
+Injection flaws result from improper input validation and trusting user-controlled data.
