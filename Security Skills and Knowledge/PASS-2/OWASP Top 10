@@ -1,0 +1,6 @@
+OWASP Top 10
+
+OWASP Top 10 is a list of the most common and critical web application security risks.
+It highlights frequent vulnerabilities such as broken access control, injection flaws, and authentication failures.
+
+Many OWASP vulnerabilities stem from trusting user input and missing authorization checks.
