@@ -1,0 +1,6 @@
+Input Validation
+
+Input is any data that a user can control.
+Input validation is the process of checking that user input is safe, expected, and allowed.
+
+Many web vulnerabilities occur because applications trust user input without proper validation.
