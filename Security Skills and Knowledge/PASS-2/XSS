@@ -1,0 +1,6 @@
+Cross-Site Scripting (XSS)
+
+XSS occurs when untrusted user input is included in a web page and executed as JavaScript in the user's browser.
+This allows attackers to run scripts in the context of another user's session.
+
+XSS vulnerabilities result from improper input validation and output handling.
