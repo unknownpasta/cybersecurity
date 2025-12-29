@@ -1,0 +1,6 @@
+Privilege Escalation
+
+Privilege escalation occurs when an attacker gains higher-level permissions than intended.
+This can involve moving from a low-privileged user to an administrator or accessing resources beyond authorization.
+
+Privilege escalation often results from misconfigurations, weak permission controls, or authorization flaws.
