@@ -1,0 +1,32 @@
+# Threat Hunting – Basics (PASS 2)
+
+## Definition
+Threat hunting is a proactive security practice focused on actively searching for hidden or unknown threats within systems and networks.
+
+---
+
+## Purpose
+Threat hunting aims to:
+- Identify attackers that bypassed detection systems
+- Detect abnormal or suspicious behavior
+- Reduce attacker dwell time
+- Improve overall security posture
+
+---
+
+## How It Works
+Threat hunting is hypothesis-driven and involves:
+- Analyzing logs and system data
+- Searching for unusual behavior
+- Correlating events across multiple sources
+
+---
+
+## Difference from IDS/IPS
+- IDS/IPS are reactive and alert-driven
+- Threat hunting is proactive and does not rely on alerts
+
+---
+
+## Key Takeaway
+Threat hunting assumes compromise and actively looks for evidence of attacker activity rather than waiting for automated alerts.
