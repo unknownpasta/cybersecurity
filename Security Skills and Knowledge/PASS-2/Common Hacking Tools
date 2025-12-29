@@ -1,0 +1,6 @@
+Common Hacking Tools (Overview)
+
+Security tools exist to answer specific questions, such as what services are exposed or how a web application handles input.
+Examples include Nmap for port scanning, Burp Suite for inspecting HTTP requests, SQLmap for detecting SQL injection, and Wireshark for network traffic analysis.
+
+Tools are used when a problem requires them, not memorized in advance.
