@@ -1,0 +1,58 @@
+# IDS / IPS – Basics (PASS 2)
+
+## Definition
+IDS and IPS are security systems used to monitor network or system activity for malicious behavior.
+
+- IDS detects suspicious activity and raises alerts.
+- IPS detects suspicious activity and actively blocks or prevents it.
+
+---
+
+## IDS – Intrusion Detection System
+An IDS monitors traffic or system activity and alerts when malicious behavior is detected.
+
+What it does:
+- Inspects network packets or logs
+- Detects known attack patterns or anomalies
+- Generates alerts for security teams
+
+Key point:
+- IDS does NOT block attacks
+- It is used for visibility and detection
+
+---
+
+## IPS – Intrusion Prevention System
+An IPS sits inline with traffic and can block malicious activity in real time.
+
+What it does:
+- Inspects traffic like IDS
+- Automatically blocks or drops malicious packets
+- Prevents attacks before they reach the target
+
+Key point:
+- IPS actively interferes with traffic
+- Incorrect rules can block legitimate activity
+
+---
+
+## IDS vs IPS (Quick Comparison)
+
+- IDS: Detects and alerts
+- IPS: Detects and blocks
+- IDS is passive
+- IPS is active
+
+---
+
+## Detection Methods
+IDS/IPS systems typically use:
+- Signature-based detection (known attack patterns)
+- Anomaly-based detection (unusual behavior)
+
+Both methods can produce false positives and false negatives.
+
+---
+
+## Key Takeaway
+IDS provides visibility into attacks, while IPS focuses on prevention. Both are used together to improve detection, response, and defense in depth.
