@@ -1,0 +1,36 @@
+# Digital Forensics – Basics (PASS 2)
+
+## Definition
+Digital forensics is the process of collecting, preserving, and analyzing digital evidence to investigate security incidents and determine what happened.
+
+---
+
+## Purpose
+Digital forensics is used to:
+- Reconstruct security incidents
+- Identify attacker actions and timelines
+- Determine affected systems and data
+- Support incident response and legal requirements
+
+---
+
+## Common Evidence Sources
+Forensic investigations may analyze:
+- System and application logs
+- Disk and file system data
+- Memory (RAM) contents
+- Network traffic captures
+- File metadata and timestamps
+- User activity records
+
+---
+
+## Key Characteristics
+- Forensics is reactive, not preventive
+- Evidence integrity is critical
+- Focuses on timelines and impact
+
+---
+
+## Relationship to Security
+Forensics supports incident response, malware analysis, compliance, and post-incident reporting.
